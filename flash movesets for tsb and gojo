@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletfan2007/BaldyToSorcerer/main/Latest.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/S47nEM11"))()
